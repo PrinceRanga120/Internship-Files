@@ -143,8 +143,8 @@ These tools are for **educational and defensive security purposes only**.
 
 ```bash
 # 1. Clone or download this repository
-git clone https://github.com/<your-username>/cyber-security-projects.git
-cd cyber-security-projects
+git clone https://github.com/PrinceRanga120/Internship-Files.git
+cd Internship-Files
 
 # 2. Try the password checker
 python password_strength_checker.py
